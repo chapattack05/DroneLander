@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{EADDEA53-1C32-4F02-9E1B-FCD0D793441E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DroneLander2/App.xaml.cs">
+    <Files>
+      <File FileName="DroneLander2/App.xaml.cs" Line="38" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DroneLander2.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DroneLander2.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.EDDB4E8E-5AD9-4A46-8D0F-AB1898BCA049" />
+</Properties>
