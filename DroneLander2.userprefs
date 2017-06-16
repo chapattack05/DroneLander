@@ -1,7 +1,9 @@
 ﻿<Properties StartupConfiguration="{EADDEA53-1C32-4F02-9E1B-FCD0D793441E}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="DroneLander2/App.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DroneLander2/ViewModels/MainViewModel.cs">
     <Files>
-      <File FileName="DroneLander2/App.xaml.cs" Line="38" Column="2" />
+      <File FileName="DroneLander2/App.xaml.cs" Line="22" Column="12" />
+      <File FileName="DroneLander2/Common/CoreConstants.cs" Line="18" Column="39" />
+      <File FileName="DroneLander2/ViewModels/MainViewModel.cs" Line="17" Column="14" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
